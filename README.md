@@ -1,1 +1,2 @@
 # odin-landing-page
+I am going to create a webpage following the design on the odin project page. During this project I want to focus on improving my flexbox skills and especially practice using git messages more.
