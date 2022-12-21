@@ -62,7 +62,7 @@ ul {
 
 }
 
-.button-one {
+.button-one, .button-two {
     border: 2px;
     border-radius: 10px;
     padding: 8px 24px;
@@ -121,3 +121,33 @@ ul {
    align-items: center;
    padding: 32px;
 }   
+
+.sign-up {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 64px;
+}
+
+.sign-up-box {
+    border-radius: 10px;
+    background-color: #fff00075;
+    padding: 48px 96px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 128px;
+}
+
+.button-two {
+    background-color: transparent;
+    border-color: ;
+    border-style: solid;
+    border-width: 2px;
+   
+}
+
+.action {
+    font-size: 18px;
+    font-weight: 700;
+}
