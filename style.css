@@ -113,3 +113,11 @@ ul {
     font-size: 18px;
     align-self: flex-end;
 }
+
+.footer {
+    background-color: #50C87875;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding: 32px;
+}   
